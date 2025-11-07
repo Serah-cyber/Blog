@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/Serah-cyber/Blog.git/sitemap.xml

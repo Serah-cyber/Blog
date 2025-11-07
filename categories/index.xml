@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on SERAHER</title>
+    <link>https://github.com/Serah-cyber/Blog.git/categories/</link>
+    <description>Recent content in Categories on SERAHER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 SERAHER</copyright>
+    <lastBuildDate>Tue, 04 Nov 2025 15:40:18 -0500</lastBuildDate><atom:link href="https://github.com/Serah-cyber/Blog.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Write Ups</title>
+      <link>https://github.com/Serah-cyber/Blog.git/categories/write-ups/</link>
+      <pubDate>Tue, 04 Nov 2025 15:40:18 -0500</pubDate>
+      
+      <guid>https://github.com/Serah-cyber/Blog.git/categories/write-ups/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
