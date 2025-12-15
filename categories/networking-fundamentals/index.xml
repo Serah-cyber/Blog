@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Networking Fundamentals on SERAHER</title><link>https://Serah-cyber.github.io/Blog/categories/networking-fundamentals/</link><description>Recent content in Networking Fundamentals on SERAHER</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 SERAHER</copyright><lastBuildDate>Sun, 16 Nov 2025 12:57:22 -0500</lastBuildDate><atom:link href="https://Serah-cyber.github.io/Blog/categories/networking-fundamentals/index.xml" rel="self" type="application/rss+xml"/><item><title>ICMP Deep Dive: Understanding the Internet Control Message Protocol</title><link>https://Serah-cyber.github.io/Blog/posts/icmp-protocol/</link><pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate><guid>https://Serah-cyber.github.io/Blog/posts/icmp-protocol/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking Fundamentals on SERAHER</title>
+    <link>http://localhost:1313/Blog/categories/networking-fundamentals/</link>
+    <description>Recent content in Networking Fundamentals on SERAHER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 SERAHER</copyright>
+    <lastBuildDate>Sun, 16 Nov 2025 12:57:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/Blog/categories/networking-fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ICMP Deep Dive: Understanding the Internet Control Message Protocol</title>
+      <link>http://localhost:1313/Blog/posts/icmp-protocol/</link>
+      <pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/Blog/posts/icmp-protocol/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

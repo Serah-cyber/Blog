@@ -1,1 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on SERAHER</title><link>https://Serah-cyber.github.io/Blog/tags/</link><description>Recent content in Tags on SERAHER</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 SERAHER</copyright><lastBuildDate>Sun, 16 Nov 2025 12:57:22 -0500</lastBuildDate><atom:link href="https://Serah-cyber.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Analysis</title><link>https://Serah-cyber.github.io/Blog/tags/analysis/</link><pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate><guid>https://Serah-cyber.github.io/Blog/tags/analysis/</guid><description/></item><item><title>Blue-Team</title><link>https://Serah-cyber.github.io/Blog/tags/blue-team/</link><pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate><guid>https://Serah-cyber.github.io/Blog/tags/blue-team/</guid><description/></item><item><title>Icmp</title><link>https://Serah-cyber.github.io/Blog/tags/icmp/</link><pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate><guid>https://Serah-cyber.github.io/Blog/tags/icmp/</guid><description/></item><item><title>Networking</title><link>https://Serah-cyber.github.io/Blog/tags/networking/</link><pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate><guid>https://Serah-cyber.github.io/Blog/tags/networking/</guid><description/></item><item><title>Protocol</title><link>https://Serah-cyber.github.io/Blog/tags/protocol/</link><pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate><guid>https://Serah-cyber.github.io/Blog/tags/protocol/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SERAHER</title>
+    <link>http://localhost:1313/Blog/tags/</link>
+    <description>Recent content in Tags on SERAHER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 SERAHER</copyright>
+    <lastBuildDate>Sun, 16 Nov 2025 12:57:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analysis</title>
+      <link>http://localhost:1313/Blog/tags/analysis/</link>
+      <pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/Blog/tags/analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blue-Team</title>
+      <link>http://localhost:1313/Blog/tags/blue-team/</link>
+      <pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/Blog/tags/blue-team/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Icmp</title>
+      <link>http://localhost:1313/Blog/tags/icmp/</link>
+      <pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/Blog/tags/icmp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>http://localhost:1313/Blog/tags/networking/</link>
+      <pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/Blog/tags/networking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Protocol</title>
+      <link>http://localhost:1313/Blog/tags/protocol/</link>
+      <pubDate>Sun, 16 Nov 2025 12:57:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/Blog/tags/protocol/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
