@@ -250,7 +250,7 @@
     "keywords": ["networking","icmp","protocol","blue-team","analysis"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "762"
+    "wordCount": "746"
   }]
   </script>
 
@@ -629,7 +629,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-11-16T12:57:22-05:00">16 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>762 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">4 mins</span><span class="px-2 text-primary-500">&middot;</span><span class="mb-[2px]">
+      <time datetime="2025-11-16T12:57:22-05:00">16 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>746 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">4 mins</span><span class="px-2 text-primary-500">&middot;</span><span class="mb-[2px]">
   <span
     id="zen-mode-button"
     class="text-lg hover:text-primary-500"
@@ -993,8 +993,7 @@
 </span></span></code></pre></div><p>Press <strong>Enter</strong>.</p>
 <p>You should now only see ICMP packets.</p>
 
-<h2 class="relative group"><strong>Screenshot Placeholder:</strong>
-<figure><img
+<h2 class="relative group"><figure><img
     class="my-0 rounded-md"
     loading="lazy"
     decoding="async"
@@ -1033,8 +1032,7 @@
 <li>Echo Reply (Type 0)</li>
 </ul>
 
-<h2 class="relative group"><strong>Screenshot Placeholder:</strong>
-<figure><img
+<h2 class="relative group"><figure><img
     class="my-0 rounded-md"
     loading="lazy"
     decoding="async"
@@ -1066,7 +1064,6 @@
     
 </h2>
 <p>Click on any <strong>Echo Request</strong> packet.</p>
-<p><strong>Screenshot Placeholder:</strong>
 <figure><img
     class="my-0 rounded-md"
     loading="lazy"
@@ -1079,7 +1076,6 @@
     srcset="/Blog/posts/icmp-protocol/icmprequestselected_hu_f55132b27fa4a386.png 800w, /Blog/posts/icmp-protocol/icmprequestselected_hu_f71bf5513fa44fab.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/Blog/posts/icmp-protocol/icmprequestselected.png"></figure>
-</p>
 <p>You should see three key panels in Wireshark:</p>
 
 <h3 class="relative group">1. Packet List (top)
@@ -1133,8 +1129,6 @@
 <li>Identifier &amp; Sequence</li>
 <li>Payload</li>
 </ul>
-
-<h2 class="relative group"><strong>Screenshot Placeholder:</strong>
 <figure><img
     class="my-0 rounded-md"
     loading="lazy"
@@ -1148,8 +1142,7 @@
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/Blog/posts/icmp-protocol/requestheader1.png"></figure>
 
-<strong>Screenshot Placeholder:</strong>
-<figure><img
+<h2 class="relative group"><figure><img
     class="my-0 rounded-md"
     loading="lazy"
     decoding="async"
@@ -1193,8 +1186,7 @@
 <li>No fragmentation unless payload is large</li>
 </ul>
 
-<h2 class="relative group"><strong>Screenshot Placeholder:</strong>
-<figure><img
+<h2 class="relative group"><figure><img
     class="my-0 rounded-md"
     loading="lazy"
     decoding="async"
@@ -1235,8 +1227,7 @@ Try:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">traceroute -I 8.8.8.8
 </span></span></code></pre></div><p>(Uses ICMP instead of UDP)</p>
 
-<h2 class="relative group"><strong>Screenshot Placeholder:</strong>
-<figure><img
+<h2 class="relative group"><figure><img
     class="my-0 rounded-md"
     loading="lazy"
     decoding="async"
@@ -1271,8 +1262,7 @@ Try:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">icmp &amp;&amp; frame.len &gt; 200
 </span></span></code></pre></div><p>If nothing shows up → good, your network has no large ICMP payloads.</p>
 
-<h2 class="relative group"><strong>Screenshot Placeholder:</strong>
-<figure><img
+<h2 class="relative group"><figure><img
     class="my-0 rounded-md"
     loading="lazy"
     decoding="async"
