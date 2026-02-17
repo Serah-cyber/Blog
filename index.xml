@@ -6,8 +6,18 @@
     <description>Recent content on SERAHER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 SERAHER</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 12:57:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 SERAHER</copyright>
+    <lastBuildDate>Tue, 17 Feb 2026 09:05:13 -0500</lastBuildDate><atom:link href="http://localhost:1313/Blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Investigating Suspicious ICMP Traffic in a SOC Lab Using Wireshark</title>
+      <link>http://localhost:1313/Blog/posts/investigating-suspicious-icmp/</link>
+      <pubDate>Tue, 17 Feb 2026 09:05:13 -0500</pubDate>
+      
+      <guid>http://localhost:1313/Blog/posts/investigating-suspicious-icmp/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>ICMP Deep Dive: Understanding the Internet Control Message Protocol</title>
